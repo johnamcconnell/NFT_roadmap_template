@@ -1,0 +1,1 @@
+@import "https://fonts.googleapis.com/css2?family=Inconsolata&display=swap";body{height:400px;position:relative;font-family:inconsolata,monospace;font-size:24px;line-height:28px;font-weight:400}#content{position:absolute;top:0;right:0;bottom:0;left:0;margin:auto;width:600px;height:200px}
